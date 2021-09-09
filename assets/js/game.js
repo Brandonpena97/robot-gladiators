@@ -7,7 +7,7 @@ console.log(playerName, playerAttack, playerHealth);
 
 var enemyName = "Roborto";
 var enemyHealth = 50;
-var enemyAttack = 100;
+var enemyAttack = 12;
 
 var fight = function() {
   window.alert("Welcome to Robot Gladiators!");
