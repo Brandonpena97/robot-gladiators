@@ -196,3 +196,5 @@ var randomNumber = function(min, max) {
 
 // start the game when the page loads
 startGame();
+
+//for update
